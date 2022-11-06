@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import About from '../components/About'
+import ContactMe from '../components/ContactMe'
 import Header from '../components/Header'
 import Hero from '../components/Hero'
 import Projects from '../components/Projects'
@@ -8,7 +9,7 @@ import WorkExperience from '../components/WorkExperience'
 
 export default function Home() {
   return (
-    <div className="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-mandatory overflow-scroll z-0">
+    <div className="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-mandatory overflow-y-scroll overflow-x-hidden z-0">
       <Head>
         <title>Ruslan Portfolio</title>
       </Head>
@@ -35,7 +36,9 @@ export default function Home() {
         <Projects />
       </section>
 
-      {/* Contact Me */}
+      <section id="contact" className="snap-center">
+        <ContactMe />
+      </section>
     </div>
   )
 }
