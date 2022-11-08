@@ -27,11 +27,11 @@ export default function Hero({}: Props) {
         <h2 className="uppercase text-sm text-gray-500 pb-2 tracking-[15px]">
           Frontend Developer
         </h2>
-        <h1 className="text-5xl lg:text-6xl font-semibold px-10">
-          <span className="mr-3">{text}</span>
+        <h1 className="text-sm md:text-5xl xl:text-6xl font-semibold px-5">
+          <span className="mr-1">{text}</span>
           <Cursor cursorColor="#F7AB0A" />
         </h1>
-        <div className="pt-5">
+        <div className="pt-5 flex flex-col sm:flex-row items-center justify-center">
           <Link href="#about">
             <button className="heroButton">Обо мне</button>
           </Link>
