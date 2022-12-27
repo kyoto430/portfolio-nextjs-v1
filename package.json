@@ -2,11 +2,13 @@
   "name": "portfolio-nextjs-v1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kyoto430.github.io/portfolio-nextjs-v1/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.13",
@@ -25,6 +27,7 @@
     "autoprefixer": "^10.4.13",
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.0",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.18",
     "tailwind-scrollbar": "^2.0.1",
     "tailwindcss": "^3.2.1",
