@@ -19,37 +19,37 @@ export default function Home() {
         ></meta>
         <meta
           name="keywords"
-          content="Верстка сайта, заказать сайт, ментор по верстке, junior frontend на react, джун на react, комерческий опыт на react, работа на react"
+          content="Верстка сайта, ментор по верстке, junior frontend на react, джун на react, комерческий опыт на react, работа на react"
         ></meta>
       </Head>
 
       <Header />
 
-      <section id="hero" className="snap-start">
+      <section id="hero" className="md:snap-start">
         <Hero />
       </section>
 
-      <section id="about" className="snap-center">
+      <section id="about" className="md:snap-center">
         <About />
       </section>
 
-      <section id="experience" className="snap-center">
+      <section id="experience" className="md:snap-center">
         <WorkExperience />
       </section>
 
-      <section id="skills" className="snap-start">
+      <section id="skills" className="md:snap-start">
         <Skills />
       </section>
 
-      <section id="projects" className="snap-start">
+      <section id="projects" className="md:snap-start">
         <Projects />
       </section>
 
-      <section id="contact" className="snap-center">
+      <section id="contact" className="md:snap-center">
         <ContactMe />
       </section>
 
-      <footer className="sticky bottom-5 w-full">
+      <footer className="hidden md:block md:sticky md:bottom-5 md:w-full">
         <div className="flex items-center justify-center">
           <Link href="#hero">
             <img

@@ -10,7 +10,7 @@ export default function WorkExperience({}: Props) {
       id: '1',
       title: 'Верстальщик',
       place: '',
-      logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+      logo: 'https://cdn-icons-png.flaticon.com/512/174/174854.png',
       icons: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
@@ -25,7 +25,7 @@ export default function WorkExperience({}: Props) {
         'Дизайн макетов',
         'SEO и PageSpeed оптимизация',
       ],
-      date: 'Август 2018 - по настоящее время',
+      date: 'Август 2018 - Июль 2021',
     },
     {
       id: '2',
@@ -50,6 +50,23 @@ export default function WorkExperience({}: Props) {
       ],
       date: 'Июль 2021 - Февраль 2022',
     },
+    {
+      id: '3',
+      title: 'Junior Frontend Developer',
+      place: '',
+      logo: 'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
+      icons: [
+        'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
+        'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
+        'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
+      ],
+      points: [
+        'Практика по созданию пользовательских интерфейсов на React',
+        'Освоение backend',
+      ],
+      date: 'Октябрь 2022 - по настоящее время',
+    },
   ]
   return (
     <motion.div
@@ -62,9 +79,9 @@ export default function WorkExperience({}: Props) {
       whileInView={{
         opacity: 1,
       }}
-      className="h-screen flex relative overflow-hidden flex-col text-left md:flex-row max-w-full px-10 justify-evenly mx-auto items-center"
+      className="md:h-screen flex relative md:overflow-hidden flex-col text-left md:flex-row max-w-full px-10 justify-evenly mx-auto items-center"
     >
-      <h3 className="absolute top-16 uppercase tracking-[20px] text-gray-500 text-2xl">
+      <h3 className="absolute top-8 uppercase tracking-[20px] text-gray-500 text-2xl">
         Опыт
       </h3>
       <div className="w-full flex space-x-5 overflow-x-scroll mt-10 p-10 snap-x snap-mandatory scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80">

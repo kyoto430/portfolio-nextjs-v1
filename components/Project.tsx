@@ -6,10 +6,10 @@ type Props = { project?: any; length?: any }
 
 export default function Project({ project, length }: Props) {
   return (
-    <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center p-5 md:p-20 md:p-44 h-screen">
+    <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center p-5 md:p-20 md:p-44 md:h-screen">
       <motion.img
         initial={{
-          y: -300,
+          y: -200,
           opacity: 0,
         }}
         transition={{

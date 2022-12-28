@@ -21,12 +21,12 @@ export default function ContactMe({}: Props) {
     window.location.href = `mailto:nateriver345@gmail.com?subject=${formData.subject}&body=Hi, my name is ${formData.name}. ${formData.message} (${formData.email})`
   }
   return (
-    <div className="h-screen flex relative flex-col text-center md:text-left md:flex-row max-w-7xl p-10 justify-evenly mx-auto items-center">
-      <h3 className="absolute text-center top-16 md:top-16 uppercase tracking-[20px] text-gray-500 text-sm md:text-2xl">
+    <div className="md:h-screen flex relative flex-col text-center md:text-left md:flex-row max-w-7xl p-10 justify-evenly mx-auto items-center">
+      <h3 className="md:absolute text-center md:top-16 uppercase tracking-[20px] text-gray-500 text-sm md:text-2xl">
         Связаться со мной
       </h3>
-      <div className="flex flex-col space-y-1 md:space-y-10">
-        <h4 className="pt-5 md:pt-7 text-md md:text-4xl font-semibold text-center">
+      <div className="flex flex-col space-y-5 md:space-y-10">
+        <h4 className="pt-5 md:pt-7 text-xl md:text-4xl font-semibold text-center">
           Если тебя что-то заинтересовало.
           <span className="decoration-[#F7AB0A]/50 underline">
             Свяжись со мной.

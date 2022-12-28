@@ -56,16 +56,16 @@ export default function Skills({}: Props) {
       logo: 'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
       progress: '30%',
     },
-    {
-      id: '11',
-      logo: 'https://camo.githubusercontent.com/438522ac26bb05c47b5a243f914d2dab7c49265b6ee09bbc7df43004f96754f6/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3335392f66756c6c2f657870726573736a736c6f676f2e706e67',
-      progress: '30%',
-    },
-    {
-      id: '12',
-      logo: 'https://i.imgur.com/Dns5wR8.png',
-      progress: '30%',
-    },
+    // {
+    //   id: '11',
+    //   logo: 'https://camo.githubusercontent.com/438522ac26bb05c47b5a243f914d2dab7c49265b6ee09bbc7df43004f96754f6/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3335392f66756c6c2f657870726573736a736c6f676f2e706e67',
+    //   progress: '30%',
+    // },
+    // {
+    //   id: '12',
+    //   logo: 'https://i.imgur.com/Dns5wR8.png',
+    //   progress: '30%',
+    // },
     {
       id: '13',
       logo: 'https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png',
@@ -74,18 +74,18 @@ export default function Skills({}: Props) {
     {
       id: '14',
       logo: 'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
-      progress: '80%',
+      progress: '70%',
     },
-    {
-      id: '15',
-      logo: 'https://avatars.mds.yandex.net/i?id=883d95e7870d742c9afaccce81e84f886d544248-5244793-images-thumbs&n=13',
-      progress: 'Новое',
-    },
-    {
-      id: '16',
-      logo: 'https://cns.by/images/img/staff/typescript-min.png',
-      progress: 'Новое',
-    },
+    // {
+    //   id: '15',
+    //   logo: 'https://avatars.mds.yandex.net/i?id=883d95e7870d742c9afaccce81e84f886d544248-5244793-images-thumbs&n=13',
+    //   progress: 'Новое',
+    // },
+    // {
+    //   id: '16',
+    //   logo: 'https://cns.by/images/img/staff/typescript-min.png',
+    //   progress: 'Новое',
+    // },
   ]
   return (
     <motion.div
@@ -100,10 +100,10 @@ export default function Skills({}: Props) {
       }}
       className="flex relative flex-col text-center md:text-left xl:flex-row max-w-[2000px] xl:px-10 min-h-screen justify-center xl:space-y-0 mx-auto items-center"
     >
-      <h3 className="absolute top-24 md:top-8 uppercase tracking-[20px] text-gray-500 text-2xl">
+      <h3 className="md:absolute md:top-8 uppercase tracking-[20px] text-gray-500 text-2xl">
         Навыки
       </h3>
-      <h3 className="absolute top-36 md:top-16 uppercase tracking-[3px] text-gray-500 text-sm">
+      <h3 className="mb-8 md:absolute top-8 md:top-16 uppercase tracking-[3px] text-gray-500 text-sm">
         Hover over a skill for currency profieciency
       </h3>
       <div className="grid grid-cols-4 gap-5">
