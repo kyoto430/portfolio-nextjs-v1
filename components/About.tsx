@@ -36,7 +36,7 @@ export default function About({}: Props) {
         src="https://images.unsplash.com/photo-1667308023538-4cb333dc5034?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
         className="mb-10 mt-10 md:mt-0 flex-shrink-0 w-32 h-32 rounded-full object-cover md:rounded-lg md:w-64 md:h-64 xl:w-[400px] xl:h-[400px]"
       />
-      <div className="space-y-0 md:space-y-5 px-0 md:px-10">
+      <div className="space-y-2 md:space-y-5 px-0 md:px-10">
         <h4 className="text-2xl md:text-4xl font-semibold">
           Here is a{' '}
           <span className="underline decoration-[#F7AB0A]/50">little</span>{' '}
@@ -52,9 +52,10 @@ export default function About({}: Props) {
             В 2022 году окончил курс Junior Frontend разработчика, где получил 6
             месяцев опыта разработки приложений.
           </div>
-          <div className="pb-0 md:pb-5">
+          <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
             В данный момент сосредоточен на изучении frontend и немного backend.
-            <br /> Также попробовал бы поработать на позиции junior frontend.
+            <br />
+            Также попробовал бы поработать на позиции junior frontend.
           </div>
           <div className="underline decoration-[#F7AB0A]/50 font-semibold text-xl">
             Чем я могу быть полезен?
