@@ -55,6 +55,22 @@ export default function Projects({}: Props) {
     {
       id: '4',
       image:
+        'https://lh3.googleusercontent.com/pw/AMWts8AwoShQcVfx5LW09Okc6n4x--09XBcRM9vjQLwr2MRn6fwbyYOt86a1mPjedJAqsuFoJeDxI3jxdMoRfZle5A8mzPynWHv1zhmt-PcYi1Qr1JQEblqOIFQg6oYLk5Ub4LKHN7HZ1LIzqBjVFo2WqcKI=w1123-h778-no?authuser=0',
+      title: 'Сайт резюме',
+      technologies: [
+        'https://cdn-icons-png.flaticon.com/512/174/174854.png',
+        'https://cdn-icons-png.flaticon.com/512/732/732190.png',
+        'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
+      ],
+      description:
+        'Landing-page Резюме. Дизайн разработан самостоятельно в Figma. Реализован следующий интерфейс: слайдер, меню-бургер, анимации. Реализован адаптивный дизайн под мобильные устройства.',
+      link: 'https://github.com/kyoto430/resume-task',
+      gitLink: 'https://kyoto430.github.io/resume-task/',
+    },
+    {
+      id: '5',
+      image:
         'https://lh3.googleusercontent.com/9sbNgjtORwwGnj6bJy5L9q9TGXMmT6JtXVmwOXy4CQi6Cf0UqV9-IfYnXoATiRcA9XexoJIdGQcz8BCDAXsA1_07LDGAXeyrWgFZGOtZGH-JXqUvof_3QYIp1DtT6qiLHhuun-5oRiDHGyuBfhv5h4IeKGpJlEUyM5mKSZstjcyICnjdO7aIzTQMZo5O5PgNXgF1BHivT77QQhr7JuU8t5GfdTdnsl3ZyEhVOAEFdYIzS-CTl4E9sP2FVp3GUWoGu-PK3FjJIIaqXYRH9xHfQJm0zo-ockry3JpeRj0pY_7lTS2PWSmDLun_-8y80Sp3a5V_BHEQo2RFdQnfly6QeT04XLr-QnJ_51JzGC9W_NpZJ6y05uuBBYrhfP5Qhz22G6Ac-Izl39vSkulHHpBVEMHP0SwYi5AmfcDdR30n7ckRe1YmY1e2DnGPvE1eRnJbOV7r7pBkT_cDg7WyjBOeuYJW4BpdmluTngiQlCTGz-Ce0xQGrPlwosYkZIYmWzutEk3W9dsIviuhwpbT_ztEMM25AP83k8AMRdZmXZXj10GnIunuPjLbwDdVY6s6rCDcned3fWRIEylu1yFQsL4_9TBtUKIYH6Y0lDol_jpI3gdvLlnc1wi0K-PKfI-8lP7HznkRlykcSX1YG1J8zlNZzygz0Iwml9ultQF0LnPSlXjUP3mlpok_HhqAvEwBatD4jSTAIEo5Trwn19Q8QAyw0rRNUxRDDsWWx4Lj8jptpwHva8aGm5o4-Z3xQrjZUJa22yWyY_JN868C1vskBMbDOLiudv60NcCwqRH9jTjxWiNAElHwOg6phEIUsg4ZQVXbP-r1a-t9mCcbf_A4zFkYL3ZwCdyR7Ruh1C22KzrOK8K_bDmmqnZMYQhbiCpkWB9phaSGuz72rJiZCJatw6zEZfGDP3RwHQAeF2WnPX_sOo2Qhtrp_gQACK53OcAtVxd3VJtJWd6xc4H10Gz7DsVM3g=w1123-h778-no?authuser=0',
       title: 'Сайт World of Warcraft',
       technologies: [

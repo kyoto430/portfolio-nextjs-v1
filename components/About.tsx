@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import Link from 'next/link'
 import React from 'react'
 
 type Props = {}
@@ -44,29 +45,42 @@ export default function About({}: Props) {
         </h4>
         <div className="text-base">
           <div className="pb-0 md:pb-5">
-            Привет, меня зовут Руслан. Я родился в Беларуси, живу в г.Минске.
+            Привет! Меня зовут Руслан. Мне 27 лет, родился в Беларуси, живу в
+            г.Минске.
           </div>
-          <div>С 2018 года - по 2021 год, занимался вёрсткой веб-сайтов.</div>
-          <div>В 2021 году начал изучать JavaScript и React.</div>
           <div>
-            В 2022 году окончил курс Junior Frontend разработчика, где получил 6
-            месяцев опыта разработки приложений.
+            Имею высшее техническое образование по специальности
+            Инженерно-психологическое обеспечение информационных технологий.
+          </div>
+          <div>
+            Мой опыт разработки составляет более 4 лет (некомерческий), из них
+            3.5 года вёрстка веб-сайтов и 1 год Frontend.
+          </div>
+          <div>
+            Так же, в 2022 году завершил курс Junior Frontend разработчика, где
+            получил 6 месяцев опыта разработки приложений.
           </div>
           <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
             В данный момент сосредоточен на изучении frontend и немного backend.
-            <br />
-            Также попробовал бы поработать на позиции junior frontend.
           </div>
           <div className="underline decoration-[#F7AB0A]/50 font-semibold text-xl">
             Чем я могу быть полезен?
           </div>
           <p>
-            - Помогу научиться верстать веб-сайты на стеке: HTML, CSS,
-            JavaScript.
+            - Я готов трудиться усердно и учиться новым технологиям, чтобы
+            внести свой вклад в проекты. Я имею опыт работы в команде, умею
+            общаться и сотрудничать со своими коллегами.
           </p>
-          <p>- Помогу разработать веб-сайт в комерческих целях.</p>
-          <p>- Приму задачи джуна на React для получения опыта разработки.</p>
+          <p>
+            - Я очень заинтересован и мотивирован в возможности работать
+            Frontend разработчиком.
+          </p>
         </div>
+        <Link href="https://docs.google.com/document/d/1hW12bu3LQ-g_zJZ9zpHAnwfqdVHcp-VMb8mDtzq8rx0/edit?usp=sharing">
+          <button className="heroButtonActive mt-1 md:mt-5">
+            Скачать резюме
+          </button>
+        </Link>
       </div>
     </motion.div>
   )
