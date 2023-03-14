@@ -39,7 +39,7 @@ export default function Skills({}: Props) {
     {
       id: '7',
       logo: 'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
-      progress: '70%',
+      progress: '80%',
     },
     {
       id: '8',
@@ -54,7 +54,7 @@ export default function Skills({}: Props) {
     {
       id: '10',
       logo: 'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
-      progress: '30%',
+      progress: '50%',
     },
     // {
     //   id: '11',
