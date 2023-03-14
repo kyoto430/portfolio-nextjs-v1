@@ -2,4 +2,6 @@
 
 * Created with:
   - TypeScript
-  - Next.js
+  - React
+  - Next
+  - Tailwind CSS
