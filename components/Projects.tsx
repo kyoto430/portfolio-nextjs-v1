@@ -35,7 +35,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Веб-сайт Shelter, учебный проект на курсе Rolling Scopes School. В данный момент проект находиться в стадии разработки. Сейчас реализована адаптивная и валидная вёрстка, далее работа с JS.',
+        'Веб-сайт Shelter, учебный проект на курсе Rolling Scopes School. Реализован следующий интерфейс: слайдер, меню-бургер, модальные окна, пагинация. Реализован адаптивный дизайн под мобильные устройства.',
       link: 'https://rolling-scopes-school.github.io/kyoto430-JSFE2023Q1/shelter/index.html',
       gitLink: 'https://github.com/rolling-scopes-school/kyoto430-JSFE2023Q1',
     },
