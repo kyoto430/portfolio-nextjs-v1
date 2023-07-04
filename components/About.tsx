@@ -45,7 +45,7 @@ export default function About({}: Props) {
         </h4>
         <div className="text-base">
           <div className="pb-0 md:pb-5">
-            Привет! Меня зовут Руслан. Мне 27 лет, родился в Беларуси, живу в
+            Привет! Меня зовут Руслан. Мне 28 лет, родился в Беларуси, живу в
             г.Минске.
           </div>
           <div>
@@ -61,7 +61,7 @@ export default function About({}: Props) {
             получил 6 месяцев опыта разработки приложений.
           </div>
           <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
-            В данный момент сосредоточен на изучении frontend и немного backend.
+            В данный момент обучаюсь в The Rolling Scopes School.
           </div>
           <div className="underline decoration-[#F7AB0A]/50 font-semibold text-xl">
             Чем я могу быть полезен?

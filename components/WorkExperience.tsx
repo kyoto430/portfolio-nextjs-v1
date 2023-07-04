@@ -25,7 +25,7 @@ export default function WorkExperience({}: Props) {
         'Дизайн макетов',
         'SEO и PageSpeed оптимизация',
       ],
-      date: 'Август 2018 - Июль 2021',
+      date: 'Август 2018 - по настоящее время',
     },
     {
       id: '2',
@@ -50,23 +50,23 @@ export default function WorkExperience({}: Props) {
       ],
       date: 'Июль 2021 - Февраль 2022',
     },
-    {
-      id: '3',
-      title: 'Junior Frontend Developer',
-      place: '',
-      logo: 'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
-      icons: [
-        'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
-        'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
-        'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
-      ],
-      points: [
-        'Практика по созданию пользовательских интерфейсов на React',
-        'Освоение backend',
-      ],
-      date: 'Октябрь 2022 - по настоящее время',
-    },
+    // {
+    //   id: '3',
+    //   title: 'Junior Frontend Developer',
+    //   place: '',
+    //   logo: 'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
+    //   icons: [
+    //     'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+    //     'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
+    //     'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
+    //     'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
+    //   ],
+    //   points: [
+    //     'Практика по созданию пользовательских интерфейсов на React',
+    //     'Освоение backend',
+    //   ],
+    //   date: 'Октябрь 2022 - по настоящее время',
+    // },
   ]
   return (
     <motion.div

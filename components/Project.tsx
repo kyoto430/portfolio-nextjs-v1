@@ -27,7 +27,7 @@ export default function Project({ project, length }: Props) {
       <div className="space-y-3 px-0 md:space-y-2 md:px-10 max-w-6xl">
         <h4 className="text-1xl md:text-2xl font-semibold text-center">
           <span className="underline decoration-[#F7AB0A]/50">
-            Учебный проект {project.id} из {length}:
+            Проект {project.id} из {length}:
           </span>
           {project.title}
         </h4>
