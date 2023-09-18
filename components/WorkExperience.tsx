@@ -9,7 +9,7 @@ export default function WorkExperience({}: Props) {
     {
       id: '1',
       title: 'Верстальщик',
-      place: '',
+      place: 'Фрилансер',
       logo: 'https://cdn-icons-png.flaticon.com/512/174/174854.png',
       icons: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',

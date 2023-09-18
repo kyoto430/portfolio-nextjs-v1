@@ -29,7 +29,7 @@ export default function Project({ project, length }: Props) {
           <span className="underline decoration-[#F7AB0A]/50">
             Проект {project.id} из {length}:
           </span>
-          {project.title}
+           {project.title}
         </h4>
         <div className="flex items-center space-x-2 justify-center">
           {project?.technologies.map((technology: any, index: any) => (
