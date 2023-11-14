@@ -61,7 +61,7 @@ export default function About({}: Props) {
             получил 6 месяцев опыта разработки приложений.
           </div>
           <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
-            В данный момент обучаюсь в The Rolling Scopes School.
+            В данный момент занимаюсь вёрсткой различных проектов на фрилансе.
           </div>
           <div className="underline decoration-[#F7AB0A]/50 font-semibold text-xl">
             Чем я могу быть полезен?

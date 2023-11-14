@@ -27,9 +27,9 @@ export default function ContactMe({}: Props) {
       </h3>
       <div className="flex flex-col space-y-5 md:space-y-10">
         <h4 className="pt-5 md:pt-7 text-xl md:text-4xl font-semibold text-center">
-          Если тебя что-то заинтересовало.
+          Если Вас что-то заинтересовало.
           <span className="decoration-[#F7AB0A]/50 underline">
-            Свяжись со мной.
+            Свяжитесь со мной.
           </span>
         </h4>
         <div className="space-y-2 md:space-y-1">
