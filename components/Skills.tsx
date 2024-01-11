@@ -1,8 +1,8 @@
-import React from 'react'
-import { motion } from 'framer-motion'
-import Skill from './Skill'
+import React from 'react';
+import { motion } from 'framer-motion';
+import Skill from './Skill';
 
-type Props = {}
+type Props = {};
 
 export default function Skills({}: Props) {
   const skill = [
@@ -28,31 +28,41 @@ export default function Skills({}: Props) {
     },
     {
       id: '5',
+      logo: 'https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png',
+      progress: '70%',
+    },
+    {
+      id: '6',
+      logo: 'https://camo.githubusercontent.com/39bbefb1bf36e167b3a2699997e04505e96f5ead6d6f4004b50b33859f1ca4d9/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667',
+      progress: '50%',
+    },
+    {
+      id: '7',
       logo: 'https://prepros.io/assets/legacy/icon.png',
       progress: '90%',
     },
     {
-      id: '6',
+      id: '8',
       logo: 'https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png',
       progress: '80%',
     },
     {
-      id: '7',
+      id: '9',
       logo: 'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
       progress: '80%',
     },
     {
-      id: '8',
+      id: '10',
       logo: 'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
       progress: '50%',
     },
     {
-      id: '9',
+      id: '11',
       logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
       progress: '30%',
     },
     {
-      id: '10',
+      id: '12',
       logo: 'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
       progress: '50%',
     },
@@ -86,7 +96,7 @@ export default function Skills({}: Props) {
     //   logo: 'https://cns.by/images/img/staff/typescript-min.png',
     //   progress: 'Новое',
     // },
-  ]
+  ];
   return (
     <motion.div
       initial={{
@@ -104,7 +114,7 @@ export default function Skills({}: Props) {
         Навыки
       </h3>
       <h3 className="mb-8 md:absolute top-8 md:top-16 uppercase tracking-[3px] text-gray-500 text-sm">
-        Hover over a skill for currency profieciency
+        Наведите указатель мыши на навык, чтобы узнать о владении навыком
       </h3>
       <div className="grid grid-cols-4 gap-5">
         {skill.map((element) => (
@@ -112,5 +122,5 @@ export default function Skills({}: Props) {
         ))}
       </div>
     </motion.div>
-  )
+  );
 }
