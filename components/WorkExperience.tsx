@@ -16,7 +16,7 @@ export default function WorkExperience({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968358.png',
-        'https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png',
+        'https://gulpjs.su/img/gulp-white-logo.svg',
         'https://camo.githubusercontent.com/39bbefb1bf36e167b3a2699997e04505e96f5ead6d6f4004b50b33859f1ca4d9/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667',
         'https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png',
         'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',

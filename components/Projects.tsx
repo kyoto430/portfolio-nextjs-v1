@@ -40,7 +40,7 @@ export default function Projects({}: Props) {
       id: '3',
       image:
         'https://lh3.googleusercontent.com/pw/ABLVV85-sgkbN9ayvPY4cO5bLmfAzDvhcPlyKHlZlrI5UVvPahSSlciPhEXkuvTPgbhY8AFnM71QlkzqGvjb7CA-eKZqLXp2Y3CB-U8fO3xuwS0OflTZZddLJRk4oK9q9xSQqmaltqxSgha8z1-jR3oj_FwP=w957-h663-s-no?authuser=0',
-      title: 'Tachlab',
+      title: 'Toshibu VPN',
       technologies: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',

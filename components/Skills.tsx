@@ -28,7 +28,7 @@ export default function Skills({}: Props) {
     },
     {
       id: '5',
-      logo: 'https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png',
+      logo: 'https://gulpjs.su/img/gulp-white-logo.svg',
       progress: '70%',
     },
     {
