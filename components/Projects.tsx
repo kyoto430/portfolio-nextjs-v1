@@ -9,7 +9,7 @@ export default function Projects({}: Props) {
     {
       id: '1',
       image:
-        'https://photos.google.com/u/1/share/AF1QipND79R0gScBixNr6935o05rirAFvGpu1Mk6U05tlKpM35GsXB6AbA9gWOBPJ76pLA/photo/AF1QipO9xzeWvQLsW-m812AhZs48Ph4CUc5ioYBzYj4Z?key=am50Yi03UmNLaHZkbmFpZlpEVy02LUxnZFZxQkFB',
+        'https://lh3.googleusercontent.com/pw/AP1GczMsJ7bUQSxaXg2WI50MIwI7YJ_JbY97cXy4YVqcE3eTWB7o4TAgOocKiLQQV-sOWEREMV5KsWPFzsV4j6aw6--AQlYm6N42kFwS4TU7FJ3BOHw09V7zHanrCknjwpYOP47mH2wZo9nFJ6_Izo66vge_=w1123-h778-s-no-gm?authuser=0',
       title: 'Гольфстрим',
       technologies: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
@@ -24,7 +24,7 @@ export default function Projects({}: Props) {
     {
       id: '2',
       image:
-        'https://photos.google.com/u/1/share/AF1QipND79R0gScBixNr6935o05rirAFvGpu1Mk6U05tlKpM35GsXB6AbA9gWOBPJ76pLA/photo/AF1QipPYZCG8HsLj5veXYHUB3Q2tyP9Axzk8j_gIwemE?key=am50Yi03UmNLaHZkbmFpZlpEVy02LUxnZFZxQkFB',
+        'https://lh3.googleusercontent.com/pw/AP1GczOs6ma0yfgEg3x1CHVurdIXllWzafHOHeZjlcvcL2YOXHNMQUNIYHBZibUr69LWL2Cg7icqOiuf1lhZDg5xHeEJcwzD8-97EJpzVPlMwKEQF7r9a0Y2YjvZ_HaKWylLLAF6wFugqPQavzBuqzG37seG=w1123-h778-s-no-gm?authuser=0',
       title: 'Автошкола Город дорог',
       technologies: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
