@@ -9,26 +9,30 @@ export default function Projects({}: Props) {
     {
       id: '1',
       image:
-        '',
+        'https://photos.google.com/u/1/share/AF1QipND79R0gScBixNr6935o05rirAFvGpu1Mk6U05tlKpM35GsXB6AbA9gWOBPJ76pLA/photo/AF1QipO9xzeWvQLsW-m812AhZs48Ph4CUc5ioYBzYj4Z?key=am50Yi03UmNLaHZkbmFpZlpEVy02LUxnZFZxQkFB',
       title: 'Гольфстрим',
       technologies: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
-      link: 'https://kyoto430.github.io/golfstrim/',
+      description:
+      'Адаптивная вёрстка страниц для сайта.',
+      link: 'https://golfstrim-kazan.ru/',
       gitLink: 'https://github.com/kyoto430/golfstrim',
     },
     {
       id: '2',
       image:
-        '',
+        'https://photos.google.com/u/1/share/AF1QipND79R0gScBixNr6935o05rirAFvGpu1Mk6U05tlKpM35GsXB6AbA9gWOBPJ76pLA/photo/AF1QipPYZCG8HsLj5veXYHUB3Q2tyP9Axzk8j_gIwemE?key=am50Yi03UmNLaHZkbmFpZlpEVy02LUxnZFZxQkFB',
       title: 'Автошкола Город дорог',
       technologies: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
+      description:
+      'Адаптивная вёрстка страниц для сайта.',
       link: 'https://kyoto430.github.io/avto-school/',
       gitLink: 'https://github.com/kyoto430/avto-school',
     },
@@ -42,6 +46,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
+      description:
+      'Адаптивная вёрстка страниц для сайта.',
       link: 'https://kyoto430.github.io/okontibravo/',
       gitLink: 'https://github.com/kyoto430/okontibravo',
     },
@@ -55,6 +61,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
+      description:
+      'Адаптивная вёрстка страниц для сайта.',
       link: 'https://kyoto430.github.io/CT/',
       gitLink: 'https://github.com/kyoto430/CT',
     },
@@ -69,6 +77,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       link: 'https://cargoff.com/',
+      description:
+      'Адаптивная вёрстка страниц для сайта.',
       gitLink: 'https://github.com/kyoto430/cargoff',
     },
     {
@@ -81,6 +91,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
+      description:
+      'Адаптивная вёрстка страниц для сайта.',
       link: 'https://kyoto430.github.io/architecture/',
       gitLink: 'https://github.com/kyoto430/architecture',
     },
@@ -94,6 +106,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
+      description:
+        'Адаптивная вёрстка страниц для сайта.',
       link: 'https://kyoto430.github.io/kavkaz-tour/',
       gitLink: 'https://github.com/kyoto430/kavkaz-tour',
     },

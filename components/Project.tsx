@@ -37,7 +37,7 @@ export default function Project({ project, length }: Props) {
           ))}
         </div>
         <p className="text-lg text-center md:text-left">
-          {/* {project.description} */}
+          {project.description}
         </p>
         <div className="flex items-center justify-between">
           <Link href={project.link} target="_blank">
