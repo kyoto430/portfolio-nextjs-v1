@@ -19,7 +19,7 @@ export default function About({}: Props) {
       className="flex flex-col relative md:h-screen text-center md:text-left md:flex-row max-w-7xl px-5 md:px-10 justify-center mx-auto items-center"
     >
       <h3 className="md:absolute md:top-12 uppercase tracking-[20px] text-gray-500 text-2xl">
-        Обо мне
+        About me
       </h3>
       <motion.img
         initial={{
@@ -45,36 +45,30 @@ export default function About({}: Props) {
         </h4>
         <div className="text-base">
           <div className="pb-0 md:pb-5">
-            Привет! Меня зовут Руслан. Мне 29 лет, родился в Беларуси, живу в
-            г.Минске.
+            Hello! My name is Ruslan. I am 29 years old, born in Belarus, living in Minsk city.
           </div>
           <div>
-            Имею высшее техническое образование по специальности
-            Инженерно-психологическое обеспечение информационных технологий.
+            My development experience in web2 is more than 5 years.
           </div>
           <div>
-            Мой опыт разработки составляет более 5 лет, из них
-            4 года вёрстка веб-сайтов и 1 год Frontend.
+            At the moment, I'm studying solidity, learning how to work with blockchain, participating in testnets and I'm also trying my hand as a content creator, writing threads and creating illustrations in my Twitter.
           </div>
           <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
-            В данный момент занимаюсь вёрсткой различных проектов на фрилансе.
+            My goal is to move from web2 to web3 and contribute to the development of web3 technologies.
           </div>
           <div className="underline decoration-[#F7AB0A]/50 font-semibold text-xl">
-            Чем я могу быть полезен?
+            How can I be of help?
           </div>
           <p>
-            - Я готов трудиться усердно и учиться новым технологиям, чтобы
-            внести свой вклад в проекты. Я также имею опыт работы в команде, умею
-            общаться и сотрудничать со своими коллегами и заказчиками.
+            - I am willing to work hard and learn new technologies to contribute to projects. I also have experience working in a team, and I know how to communicate and collaborate with my colleagues.
           </p>
           <p>
-            - Я очень заинтересован и мотивирован в возможности работать
-            веб-разработчиком.
+            - I am very interested and motivated in the opportunity to work as a blockchain developer.
           </p>
         </div>
-        <Link href="https://docs.google.com/document/d/1hW12bu3LQ-g_zJZ9zpHAnwfqdVHcp-VMb8mDtzq8rx0/edit?usp=sharing">
+        <Link href="https://docs.google.com/document/d/1_vszGGIEQSLJKfrjp13oI36A1A1tGBefJVMpHQzhWTM">
           <button className="heroButtonActive mt-1 md:mt-5">
-            Скачать резюме
+            Download CV
           </button>
         </Link>
       </div>

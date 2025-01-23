@@ -36,7 +36,7 @@ export default function Header({}: Props) {
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://vk.com/Kyoto430"
+          url="https://x.com/Akashi430"
           fgColor="gray"
           bgColor="transparent"
         />
@@ -46,7 +46,7 @@ export default function Header({}: Props) {
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://codewars.com/users/NearRiver"
+          url="https://codewars.com/users/Kyoto430"
           fgColor="gray"
           bgColor="transparent"
         />
@@ -74,7 +74,7 @@ export default function Header({}: Props) {
           bgColor="transparent"
         />
         <p className="uppercase md:inline-flex text-sm text-gray-400">
-          <Link href="#contact">Связаться </Link>
+          <Link href="#contact">Contact me</Link>
         </p>
       </motion.div>
     </header>

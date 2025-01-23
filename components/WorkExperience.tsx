@@ -8,32 +8,68 @@ export default function WorkExperience({}: Props) {
   const work = [
     {
       id: '1',
-      title: 'Верстальщик',
-      place: 'Фрилансер',
-      logo: 'https://cdn-icons-png.flaticon.com/512/174/174854.png',
+      title: 'Frontend developer',
+      place: 'Self-employed',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png',
       icons: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968358.png',
         'https://gulpjs.su/img/gulp-white-logo.svg',
-        'https://camo.githubusercontent.com/39bbefb1bf36e167b3a2699997e04505e96f5ead6d6f4004b50b33859f1ca4d9/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667',
-        'https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png',
+        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
         'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
-        'https://prepros.io/assets/legacy/icon.png',
+        'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png'
       ],
       points: [
-        'Адаптивная вёрстка веб-сайтов',
-        'Дизайн макетов',
-        'Исправление вёрстки',
-        'SEO и PageSpeed оптимизация',
+        'UI Development: Building responsive and cross-browser compatible web pages using HTML5, CSS3, and JavaScript (ES6+)',
+        'UX/UI Enhancement: Implementing interactive features (forms, modals, animations) to improve user experience and engagement',
       ],
-      date: 'Август 2018 - по настоящее время',
+      date: 'August 2018 - Present',
     },
     {
       id: '2',
+      title: 'Frontend developer',
+      place: 'WEB-RA',
+      logo: 'https://web-ra.com/wp-content/uploads/2021/09/logo.png',
+      icons: [
+        'https://cdn-icons-png.flaticon.com/512/174/174854.png',
+        'https://cdn-icons-png.flaticon.com/512/732/732190.png',
+        'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
+        'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png'
+      ],
+      points: [
+        'UI Development: Building responsive and cross-browser compatible web pages using HTML5, CSS3, and JavaScript (ES6+)',
+        'Performance Optimization: Reducing page load times by optimizing styles, scripts, images, and leveraging technologies like Lazy Loading and WebP',
+        'CMS Integration: Customizing themes and plugins in WordPress, creating dynamic page templates, and configuring ACF (Advanced Custom Fields) for flexible content management',
+        'UX/UI Enhancement: Implementing interactive features (forms, modals, animations) to improve user experience and engagement',
+        'Testing and Debugging: Conducting thorough testing across devices and browsers, fixing bugs, and utilizing DevTools for debugging and performance monitoring',
+        'Frameworks and Libraries: Utilizing Vue.js, jQuery, Laravel to supporting interactive elements and single-page applications (SPA)',
+      ],
+      date: 'September 2023 - January 2025',
+    },
+    {
+      id: '3',
+      title: 'Frontend Developer',
+      place: 'Telegram App startup',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png',
+      icons: [
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png',
+        'https://miro.medium.com/v2/resize:fit:640/format:webp/1*3o8TOSojT64ChGpjop0USA.png',
+        'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
+      ],
+      points: [
+        'Developed a user interface for a Telegram bot using React and Expo, ensuring an intuitive and visually appealing interaction experience',
+        'Created responsive screens and navigation optimized for mobile devices',
+      ],
+      date: 'April 2024 (1 month)',
+    },
+    {
+      id: '4',
       title: 'Junior Frontend Developer',
-      place: 'Студент в Result School',
+      place: 'Student at Result School',
       logo: 'https://sun9-26.userapi.com/impg/wMe11qws7NDKzvVIwADpzBajvCKpKoQflpjGMA/TFCCXelqv-U.jpg?size=1033x1033&quality=95&sign=dec480d0b0a4945b93f42108dbf2f81d&type=album',
       icons: [
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
@@ -45,30 +81,13 @@ export default function WorkExperience({}: Props) {
         'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
       ],
       points: [
-        'Проект «корзина» с товарами для интернет-магазина',
-        'Веб-приложение для организации мероприятий',
-        'Командный проект 1 - JavaScript-плагин «Контекстное меню»',
-        'Командный проект 2 - Cайт на React, презентующий команду участников',
+        'Project "basket" with goods for an online store',
+        'Web application for organizing events',
+        'Team Project 1 - JavaScript Plugin "Context Menu"',
+        'Team Project 2 - React website presenting the team of participants',
       ],
-      date: 'Июль 2021 - Февраль 2022',
+      date: 'July 2021 - February 2022',
     },
-    // {
-    //   id: '3',
-    //   title: 'Junior Frontend Developer',
-    //   place: '',
-    //   logo: 'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
-    //   icons: [
-    //     'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-    //     'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
-    //     'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
-    //     'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
-    //   ],
-    //   points: [
-    //     'Практика по созданию пользовательских интерфейсов на React',
-    //     'Освоение backend',
-    //   ],
-    //   date: 'Октябрь 2022 - по настоящее время',
-    // },
   ];
   return (
     <motion.div
@@ -84,7 +103,7 @@ export default function WorkExperience({}: Props) {
       className="md:h-screen flex relative md:overflow-hidden flex-col text-left md:flex-row max-w-full px-10 justify-evenly mx-auto items-center"
     >
       <h3 className="absolute top-8 uppercase tracking-[20px] text-gray-500 text-2xl">
-        Опыт
+        experience
       </h3>
       <div className="w-full flex space-x-5 overflow-x-scroll mt-10 p-10 snap-x snap-mandatory scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80">
         {work.map((element) => (
