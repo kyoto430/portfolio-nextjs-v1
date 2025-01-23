@@ -99,7 +99,7 @@ export default function Skills({}: Props) {
         Skills
       </h3>
       <h3 className="mb-8 md:absolute top-8 md:top-16 uppercase tracking-[3px] text-gray-500 text-sm">
-        Hover over a skill to learn about the skill's proficiency
+        Hover over a skill to learn about the skills proficiency
       </h3>
       <div className="grid grid-cols-4 gap-5">
         {skill.map((element) => (

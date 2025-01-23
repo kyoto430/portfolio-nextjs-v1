@@ -15,11 +15,11 @@ export default function Home() {
         <title>Ruslan Prakapets | Portfolio</title>
         <meta
           name="description"
-          content="Верстальщик сайтов, Junior Frontend разработчик. Занимаюсь разработкой сайтов, оказываю помощь в обучении. Ищу комерческий опыт на React"
+          content="Frontend developer"
         ></meta>
         <meta
           name="keywords"
-          content="Верстка сайта, ментор по верстке, junior frontend на react, джун на react, комерческий опыт на react, работа на react"
+          content="Developer"
         ></meta>
       </Head>
 

@@ -51,7 +51,7 @@ export default function About({}: Props) {
             My development experience in web2 is more than 5 years.
           </div>
           <div>
-            At the moment, I'm studying solidity, learning how to work with blockchain, participating in testnets and I'm also trying my hand as a content creator, writing threads and creating illustrations in my Twitter.
+            At the moment, I am studying solidity, learning how to work with blockchain, participating in testnets and I am also trying my hand as a content creator, writing threads and creating illustrations in my Twitter.
           </div>
           <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
             My goal is to move from web2 to web3 and contribute to the development of web3 technologies.
