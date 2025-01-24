@@ -23,7 +23,7 @@ export default function Skills({}: Props) {
     },
     {
       id: '4',
-      logo: 'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipOTQ_mkMnTWfw9ik848vGVYU425dfAkOgy6nfIC?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
+      logo: 'https://lh3.googleusercontent.com/pw/AP1GczNYdN08WYZzuQrW-3yopPsTeTB0fd3Z_oD-PMfQxFeYQihSOexGG4uqk0b5omphK9TuE6scfYerEsq5okab9zHBRjIoiXSKrXpekrKaL-Gagf_d_N65G-lqaDPB7jBQi2dAzs8Ino0_BiVSjPxytGrw=w512-h512-s-no-gm?authuser=0',
       progress: '50%',
     },
     {
@@ -73,7 +73,7 @@ export default function Skills({}: Props) {
     },
     {
       id: '14',
-      logo: 'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipNluMRWGabnDhLvQrq7LZZhTxvBFKenAh-ODvyO?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
+      logo: 'https://lh3.googleusercontent.com/pw/AP1GczNClBs9EaenMJ3jqVRDFjpJWAi_giL3GjPjw_cvHgVW_OiCDioprGtjtAvInONcIUA3QTxUXZU9PZKEKxZhBhL80eAHyYfjQop4-bE7Pi5N7G6YyAP7lPXRcMCPycNfm1vOkJWptRJ7FrY1dOTGwjL5=w1024-h914-s-no-gm?authuser=0',
       progress: '50%',
     },
     {
@@ -93,7 +93,7 @@ export default function Skills({}: Props) {
     },
     {
       id: '18',
-      logo: 'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipOmqa1J963MdCbaiw56PIvNjo6CBu8dfOyTKkuG?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
+      logo: 'https://lh3.googleusercontent.com/pw/AP1GczMXzN9FsSsY68e3f2wWkuYDH6H4rhimc1cp2NzG5s8PFWfq1UN-HXtdjd4nMfbueQSVFIpRfj0V-QN86IQ6p2BE4_ch9gwDLz4QZxX4P9qBQ08pWrppcaMHmM8dJBPnwbwn8keF_eqrHHeQBJaobyq_=w512-h512-s-no-gm?authuser=0',
       progress: 'Learning',
     },
   ];

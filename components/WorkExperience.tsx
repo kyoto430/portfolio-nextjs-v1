@@ -58,8 +58,8 @@ export default function WorkExperience({}: Props) {
       place: 'Telegram App startup',
       logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png',
       icons: [
-        'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipNluMRWGabnDhLvQrq7LZZhTxvBFKenAh-ODvyO?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
+        'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',,
+        'https://lh3.googleusercontent.com/pw/AP1GczNClBs9EaenMJ3jqVRDFjpJWAi_giL3GjPjw_cvHgVW_OiCDioprGtjtAvInONcIUA3QTxUXZU9PZKEKxZhBhL80eAHyYfjQop4-bE7Pi5N7G6YyAP7lPXRcMCPycNfm1vOkJWptRJ7FrY1dOTGwjL5=w1024-h914-s-no-gm?authuser=0',
         'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
       ],
       points: [
