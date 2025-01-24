@@ -14,7 +14,7 @@ export default function Skills({}: Props) {
     {
       id: '2',
       logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6zQpp19EUKn4nSRkp2kfrkJxATH0Ah5m7g&s',
-      process: '70%',
+      progress: '70%',
     },
     {
       id: '3',
@@ -54,7 +54,7 @@ export default function Skills({}: Props) {
     {
       id: '10',
       logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-      progress: '60%',
+      progress: '70%',
     },
     {
       id: '11',

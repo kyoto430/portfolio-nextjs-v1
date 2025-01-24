@@ -48,7 +48,6 @@ export default function WorkExperience({}: Props) {
         'CMS Integration',
         'UX/UI Enhancement: Implementing interactive features (forms, modals, animations) to improve user experience and engagement',
         'Testing and Debugging',
-        'Frameworks and Libraries: Utilizing Vue.js, jQuery, Laravel to supporting interactive elements and single-page applications (SPA)',
       ],
       date: 'September 2023 - January 2025',
     },
