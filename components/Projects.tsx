@@ -15,7 +15,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
       'This project is a website developed for Golfstrim-Kazan, a company offering a range of services in the field of travel and tourism. The website features a clean, professional design with easy navigation to present the company’s offerings, including tour packages, travel services, and customer testimonials. Fully responsive, it provides a seamless experience across devices, ensuring visitors can easily explore and book services. The website aims to enhance the user experience while reflecting the company’s commitment to quality service and customer satisfaction.',
@@ -46,7 +46,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
       'This project is a promotional website designed for OkontiBravo, offering a modern and visually appealing presentation of the company’s services. The website focuses on providing clear and easy-to-navigate content while showcasing the brand’s values and offerings. With a fully responsive design, it ensures a seamless browsing experience across various devices, combining both functionality and aesthetic appeal to engage users effectively. The overall layout reflects the company’s professional approach and commitment to delivering high-quality services.',
@@ -77,7 +77,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       link: 'https://cargoff.com/',
       description:
@@ -108,7 +108,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
         'This project is a tourism website designed to promote tours to the Caucasus region. The website showcases detailed information about various tours, destinations, and experiences, with an emphasis on visual appeal and user engagement. Featuring a modern, responsive design, it ensures a seamless browsing experience across all devices. The site highlights the beauty and diversity of the Caucasus, providing visitors with the necessary information to plan their travels with ease and excitement.',
@@ -124,7 +124,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
         'This project is a sleek and modern website, designed to showcase their innovative solutions and services. The website features a minimalist layout with a focus on clean design and easy navigation. Its responsive design ensures optimal performance across devices, providing users with a smooth and engaging experience. The overall aesthetic is professional, aligning with the company’s technological expertise and forward-thinking approach.',
@@ -155,7 +155,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
         'This project is a professional website created for a financial services company, designed to present their offerings and expertise in the financial industry. The website features a clean, modern design with a focus on user-friendly navigation and clear presentation of services. Its responsive design ensures smooth accessibility across different devices, while maintaining a sophisticated look that reflects the company’s focus on financial solutions and innovation.',

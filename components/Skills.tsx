@@ -23,8 +23,8 @@ export default function Skills({}: Props) {
     },
     {
       id: '4',
-      logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-      progress: '60%',
+      logo: 'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipOTQ_mkMnTWfw9ik848vGVYU425dfAkOgy6nfIC?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
+      progress: '50%',
     },
     {
       id: '5',
@@ -38,47 +38,62 @@ export default function Skills({}: Props) {
     },
     {
       id: '7',
-      logo: 'https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png',
+      logo: 'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       progress: '70%',
     },
     {
       id: '8',
+      logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968332.png',
+      progress: '60%',
+    },
+    {
+      id: '9',
       logo: 'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
       progress: '80%',
     },
     {
-      id: '9',
+      id: '10',
+      logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+      progress: '60%',
+    },
+    {
+      id: '11',
       logo: 'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
       progress: '50%',
     },
     {
-      id: '10',
-      logo: 'https://cns.by/images/img/staff/typescript-min.png',
+      id: '12',
+      logo: 'https://cdn-icons-png.flaticon.com/512/919/919832.png',
       progress: '50%',
     },
     {
-      id: '11',
+      id: '13',
       logo: 'https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg',
       progress: '50%',
     },
     {
-      id: '12',
+      id: '14',
+      logo: 'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipNluMRWGabnDhLvQrq7LZZhTxvBFKenAh-ODvyO?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
+      progress: '50%',
+    },
+    {
+      id: '15',
       logo: 'https://cdn-icons-png.flaticon.com/512/5968/5968322.png ',
       progress: '30%',
     },
     {
-      id: '13',
+      id: '16',
       logo: 'https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png',
       progress: '30%',
     },
     {
-      id: '14',
+      id: '17',
       logo: 'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
       progress: '70%',
     },
     {
-      id: '15',
-      logo: 'https://avatars.mds.yandex.net/get-entity_search/5513561/551864585/S600xU',
+      id: '18',
+      logo: 'https://photos.google.com/share/AF1QipNeGOjJIM5ohdPPVpJkPsrE870OWP0Inx8VLi2Mvs5pDpSGIRTl0nONHTOor0noPQ/photo/AF1QipOmqa1J963MdCbaiw56PIvNjo6CBu8dfOyTKkuG?key=dmJwaGtCS0R0Nk0zbjg5QWFGMVhZY25NT0ZJUXdn',
       progress: 'Learning',
     },
   ];
