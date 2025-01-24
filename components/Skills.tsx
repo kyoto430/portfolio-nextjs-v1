@@ -93,7 +93,7 @@ export default function Skills({}: Props) {
     },
     {
       id: '18',
-      logo: 'https://lh3.googleusercontent.com/pw/AP1GczMXzN9FsSsY68e3f2wWkuYDH6H4rhimc1cp2NzG5s8PFWfq1UN-HXtdjd4nMfbueQSVFIpRfj0V-QN86IQ6p2BE4_ch9gwDLz4QZxX4P9qBQ08pWrppcaMHmM8dJBPnwbwn8keF_eqrHHeQBJaobyq_=w512-h512-s-no-gm?authuser=0',
+      logo: 'https://lh3.googleusercontent.com/pw/AP1GczPjVP-Nn-fGRkl9AzJnFsicDlQqwDs3uek3aPfMv1_LKemZuAck_oc_KtJGxVLZ9talOlmbEAKJokcDwtINCDYc-jOiL614AJd6A-P7IDP_3ZpyCPgp3WSDNWu7qxPD30FMlWyLZa4DH3UQDO-W_k9-=w600-h552-s-no-gm?authuser=0',
       progress: 'Learning',
     },
   ];
