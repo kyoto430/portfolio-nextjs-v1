@@ -15,9 +15,10 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
-      'Адаптивная вёрстка страниц для сайта.',
+        'Данный проект представляет собой веб-сайт, разработанный для Golfstrim-Kazan, компании, предлагающей широкий спектр услуг в области путешествий и туризма. Веб-сайт отличается лаконичным профессиональным дизайном и удобной навигацией для представления предложений компании, включая турпакеты, туристические услуги и отзывы клиентов. Полностью адаптивный, он обеспечивает бесперебойную работу на всех устройствах, позволяя посетителям легко просматривать и бронировать услуги. Цель веб-сайта - улучшить взаимодействие с пользователями, отражая приверженность компании качественному обслуживанию и удовлетворенности клиентов.',
       link: 'https://golfstrim-kazan.ru/',
       gitLink: 'https://github.com/kyoto430/golfstrim',
     },
@@ -32,7 +33,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-      'Адаптивная вёрстка страниц для сайта.',
+        'Этот проект представляет собой удобный веб-сайт, разработанный для автошколы и предназначенный для предоставления необходимой информации о курсах, расписании и регистрации. Веб-сайт отличается чистым и современным дизайном, интуитивно понятной навигацией и адаптивным макетом, что обеспечивает удобство работы на всех устройствах. На сайте представлены предложения школы, в том числе уроки вождения, сертификаты и дополнительные услуги, что позволяет создать профессиональную онлайн-аудиторию, позволяющую потенциальным студентам легко ознакомиться с программами и зарегистрироваться.',
       link: 'https://kyoto430.github.io/avto-school/',
       gitLink: 'https://github.com/kyoto430/avto-school',
     },
@@ -45,9 +46,10 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
-      'Адаптивная вёрстка страниц для сайта.',
+        'Этот проект представляет собой рекламный веб-сайт, разработанный для ОКОНТИБРАВО и предлагающий современную и визуально привлекательную презентацию услуг компании. Веб-сайт ориентирован на предоставление понятного и удобного для навигации контента, демонстрирующего ценности и предложения бренда. Полностью адаптивный дизайн обеспечивает удобство просмотра на различных устройствах, сочетая функциональность и эстетическую привлекательность для эффективного привлечения пользователей. Общий дизайн отражает профессиональный подход компании и ее приверженность предоставлению высококачественных услуг.',
       link: 'https://kyoto430.github.io/okontibravo/',
       gitLink: 'https://github.com/kyoto430/okontibravo',
     },
@@ -62,7 +64,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-      'Адаптивная вёрстка страниц для сайта.',
+        'Этот проект представляет собой современный веб-сайт, предназначенный для представления бренда CT, демонстрации его услуг и решений. Веб-сайт отличается чистым минималистичным дизайном с акцентом на простоту навигации и вовлеченность пользователей. Он полностью адаптивен, обеспечивая оптимальное качество просмотра на всех устройствах, и представляет предложения компании в простой и визуально привлекательной форме. Цель сайта - создать профессиональное онлайн-присутствие, отражающее приверженность бренда качеству и инновациям.',
       link: 'https://kyoto430.github.io/CT/',
       gitLink: 'https://github.com/kyoto430/CT',
     },
@@ -75,10 +77,11 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       link: 'https://cargoff.com/',
       description:
-      'Адаптивная вёрстка страниц для сайта.',
+        'Данный проект представляет собой корпоративный веб-сайт, разработанный для логистической и транспортной компании Cargoff. Веб-сайт отличается лаконичным профессиональным дизайном, который подчеркивает услуги, опыт и приверженность компании повышению эффективности в сфере логистики. Адаптивный дизайн веб-сайта обеспечивает удобство работы пользователей на всех устройствах, предлагая легкий доступ к подробной информации об услугах, контактной информации и ценностям компании. Дизайн подчеркивает функциональность и доверие, что соответствует миссии компании по предоставлению надежных и эффективных логистических решений.',
       gitLink: 'https://github.com/kyoto430/cargoff',
     },
     {
@@ -92,7 +95,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-      'Адаптивная вёрстка страниц для сайта.',
+        'Этот проект представляет собой веб-сайт в стиле портфолио, созданный для демонстрации архитектурных проектов. Сайт отличается чистым современным дизайном с акцентом на высококачественные изображения и подробные описания проектов. Разработанный таким образом, чтобы быть полностью адаптивным, он обеспечивает плавный и привлекательный пользовательский опыт на различных устройствах. Веб-сайт подчеркивает архитектурный опыт компании, представляя ее работы в визуально привлекательном виде, который отражает профессионализм и креативность в области архитектуры.',
       link: 'https://kyoto430.github.io/architecture/',
       gitLink: 'https://github.com/kyoto430/architecture',
     },
@@ -105,10 +108,11 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
+        'https://cdn-icons-png.flaticon.com/512/174/174881.png',
       ],
       description:
-        'Адаптивная вёрстка страниц для сайта.',
-      link: 'https://kyoto430.github.io/kavkaz-tour/',
+        'Этот проект представляет собой туристический веб-сайт, созданный для продвижения туров по Кавказскому региону. На веб-сайте представлена подробная информация о различных турах, направлениях и впечатлениях, с акцентом на визуальную привлекательность и вовлеченность пользователей. Современный адаптивный дизайн обеспечивает удобство просмотра на всех устройствах. Сайт рассказывает о красоте и разнообразии Кавказа, предоставляя посетителям необходимую информацию для легкого и увлекательного планирования своих путешествий.',
+      link: 'https://www.kavkaz-palomnik.ru/',
       gitLink: 'https://github.com/kyoto430/kavkaz-tour',
     },
     {
@@ -122,7 +126,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Адаптивная вёрстка страниц для сайта Tachlab. Реализован следующий интерфейс: 4 слайдера, меню-бургер, выпадающее меню, модальные окна, хлебные-крошки, сортировка, табы, элементы "раскрыть/скрыть". Реализован адаптивный дизайн под мобильные устройства.',
+        'Этот проект представляет собой элегантный и современный веб-сайт, предназначенный для демонстрации их инновационных решений и услуг. Веб-сайт выполнен в минималистичном стиле с акцентом на понятный дизайн и удобную навигацию. Его адаптивный дизайн обеспечивает оптимальную производительность на всех устройствах, предоставляя пользователям плавный и привлекательный интерфейс. Общая эстетика выполнена на профессиональном уровне, в соответствии с технологическим опытом и дальновидным подходом компании.',
       link: 'https://kyoto430.github.io/tachlab/',
       gitLink: 'https://github.com/kyoto430/tachlab',
     },
@@ -137,8 +141,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Адаптивная вёрстка landing-page для сайта Toshibu VPN. Реализован следующий интерфейс: меню-бургер, аккордеон". Реализован адаптивный дизайн под мобильные устройства.',
-      link: 'https://kyoto430.github.io/vpn/',
+        'Этот проект представляет собой веб-сайт, разработанный для продвижения VPN-сервиса, рассказывающий о его функциях, преимуществах и возможностях обеспечения безопасности. Дизайн сайта выполнен в элегантном и современном стиле с акцентом на понятность и простоту навигации. Он предоставляет пользователям необходимую информацию о VPN-сервисах, обеспечивая удобство просмотра на различных устройствах. Адаптивный дизайн, наряду с профессиональной эстетикой, подчеркивает безопасность, конфиденциальность и надежность.',
+      link: 'https://toshibuvpn.ru/',
       gitLink: 'https://github.com/kyoto430/vpn',
     },
     {
@@ -152,8 +156,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Landing-page Finspace. Реализован следующий интерфейс: 3 слайдера (2 для моб.версии), меню-бургер, модальные окна, аккордеон, элементы "раскрыть/скрыть". Реализован адаптивный дизайн под мобильные устройства.',
-      link: 'https://kyoto430.github.io/finspace',
+        'Этот проект представляет собой профессиональный веб-сайт, созданный для компании, предоставляющей финансовые услуги, с целью представления их предложений и опыта в финансовой отрасли. Веб-сайт отличается чистым современным дизайном с акцентом на удобную навигацию и понятное представление услуг. Его адаптивный дизайн обеспечивает беспрепятственный доступ к различным устройствам, сохраняя при этом изысканный внешний вид, который отражает нацеленность компании на финансовые решения и инновации.',
+      link: 'https://xn--80aafbnp9abdgbbdjpbjhdqez.xn--p1ai/',
       gitLink: 'https://github.com/kyoto430/finspace',
     },
     {
@@ -167,7 +171,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Адаптивная вёрстка landing-page для сайта missiakryashen. Реализован следующий интерфейс: меню-бургер, выпадающее меню". Реализован адаптивный дизайн под мобильные устройства.',
+        'Этот проект представляет собой культурный веб-сайт, посвященный традициям и наследию кряшенской общины. В дизайне особое внимание уделяется ярким визуальным эффектам, привлекательному контенту и интуитивно понятной навигации, чтобы подчеркнуть богатство культуры. Веб-сайт полностью адаптивен, обеспечивая доступность и удобство работы на различных устройствах, сохраняя при этом современную эстетику, которая дополняет историческую и культурную тематику.',
       link: 'https://kyoto430.github.io/kryashenskaya/',
       gitLink: 'https://github.com/kyoto430/kryashenskaya',
     },
@@ -182,7 +186,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Landing-page Osetr fish. Реализован следующий интерфейс: 2 слайдера, меню-бургер, модальные окна. Реализован адаптивный дизайн под мобильные устройства.',
+        'Этот проект представляет собой рекламный сайт для компании, занимающейся производством морепродуктов, предназначенный для демонстрации их продуктов и услуг. Веб-сайт отличается чистым и современным дизайном, с акцентом на высококачественное визуальное оформление и интуитивно понятную навигацию. Адаптивный дизайн обеспечивает оптимальное взаимодействие с пользователем на всех устройствах, подчеркивая приверженность компании качеству и профессионализму в индустрии морепродуктов.',
       link: 'https://kyoto430.github.io/osterfish',
       gitLink: 'https://github.com/kyoto430/osterfish',
     },
@@ -198,7 +202,7 @@ export default function Projects({}: Props) {
         'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
       ],
       description:
-        'Landing-page Астрология. Дизайн разработан самостоятельно в Figma. Реализован следующий интерфейс: слайдер, меню-бургер, модальные окна. Реализован адаптивный дизайн под мобильные устройства.',
+        'Этот проект представляет собой визуально привлекательный веб-сайт, посвященный энтузиастам астрологии. Сайт предназначен для предоставления пользователям информации по астрологическим темам в привлекательной и интуитивно понятной форме. Благодаря адаптивному дизайну и удобному интерфейсу веб-сайт обеспечивает беспрепятственный просмотр на всех устройствах, демонстрируя современную и мистическую эстетику, которая перекликается с темой астрологии.',
       link: 'https://kyoto430.github.io/astrology/',
       gitLink: 'https://github.com/kyoto430/astrology',
     },
@@ -213,7 +217,7 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Многостраничный сайт компании "Балтсервис". Реализован следующий интерфейс: 2 слайдера, меню-бургер, аккордеон. Реализован адаптивный дизайн под мобильные устройства.',
+        'Этот проект представляет собой корпоративный веб-сайт, разработанный для компании, ориентированной на предоставление услуг, для представления своих бизнес-предложений и создания присутствия в Интернете. Веб-сайт отличается четким и профессиональным дизайном, интуитивно понятной навигацией и адаптивной функциональностью, что обеспечивает беспрепятственный доступ на разных устройствах. Его основное внимание уделяется эффективному распространению опыта компании и обеспечению легкого доступа к контактной информации для потенциальных клиентов.',
       link: 'https://kyoto430.github.io/baltserivce/',
       gitLink: 'https://github.com/kyoto430/baltserivce',
     },
@@ -226,7 +230,8 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
       ],
-      description: 'Адаптивная вёрстка проекта "Сибирь"',
+      description:
+        'Данный проект представляет собой рекламный веб-сайт. Сайт отличается визуально привлекательным дизайном, привлекательными изображениями и удобной навигацией, что обеспечивает посетителям ощущение полного погружения. Разработанный с использованием адаптивного дизайна, он обеспечивает оптимальную производительность и доступность на различных устройствах, демонстрируя как современную эстетику, так и функциональность."',
       link: 'https://kyoto430.github.io/syberia/',
       gitLink: 'https://github.com/kyoto430/syberia',
     },
@@ -239,22 +244,23 @@ export default function Projects({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
       ],
-      description: 'Адаптивная вёрстка проекта "Система безопасности"',
+      description:
+        'Этот проект представляет собой адаптивный веб-сайт для компании, предоставляющей услуги в области безопасности, разработанный для демонстрации их предложений и создания онлайн-присутствия. Веб-сайт предоставляет подробную информацию об услугах и опыте компании.',
       link: 'https://kyoto430.github.io/security/',
       gitLink: 'https://github.com/kyoto430/security',
     },
     {
       id: '17',
       image:
-        'https://lh3.googleusercontent.com/pw/AMWts8AmvwpfEtMe-AaW9DOYDWaP4Br0Q-TyUSj8YlC_3qmFQ2Ketu8BN9rLFVEAjhXo62uXYcx6CcPI1Uue8LjjAFXr5niVzckqR-0oUG_b-h11nB6sZADmb_XaOBU-D8XMFnP-Hc0aY0fNhIknUeBF5MII=w1123-h778-s-no?authuser=0',
-      title: 'Веб-сайт Shelter',
+        'https://lh3.googleusercontent.com/pw/AP1GczMGetIFeVa-lIN6r2diwoIyL9KBXEqJp7RUlgFwC7YEfb3qy-SXXv4T7EC1wPfwdcsS9CN1UXoVknOJIHNbNFoFSd0Sbvf7uJppF5qzIIbBMqUh4ENsH1x8T85hCGZ7kIZjr7AZ-rV64ULF-oTTsbO2=w1123-h778-s-no-gm?authuser=0',
+      title: 'Shelter',
       technologies: [
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
       ],
       description:
-        'Веб-сайт Shelter, учебный проект на курсе Rolling Scopes School. Реализован следующий интерфейс: слайдер, меню-бургер, модальные окна, пагинация. Реализован адаптивный дизайн под мобильные устройства.',
+        'Веб-сайт Shelter, учебный проект в рамках Rolling Scopes School. Реализован следующий интерфейс: слайдер, меню для бургеров, модальные окна, разбивка на страницы. Реализован адаптивный дизайн для мобильных устройств.',
       link: 'https://rolling-scopes-school.github.io/kyoto430-JSFE2023Q1/shelter/index.html',
       gitLink: 'https://github.com/rolling-scopes-school/kyoto430-JSFE2023Q1',
     },
@@ -307,22 +313,6 @@ export default function Projects({}: Props) {
     {
       id: '21',
       image:
-        'https://lh3.googleusercontent.com/pw/AMWts8AwoShQcVfx5LW09Okc6n4x--09XBcRM9vjQLwr2MRn6fwbyYOt86a1mPjedJAqsuFoJeDxI3jxdMoRfZle5A8mzPynWHv1zhmt-PcYi1Qr1JQEblqOIFQg6oYLk5Ub4LKHN7HZ1LIzqBjVFo2WqcKI=w1123-h778-no?authuser=0',
-      title: 'CV',
-      technologies: [
-        'https://cdn-icons-png.flaticon.com/512/174/174854.png',
-        'https://cdn-icons-png.flaticon.com/512/732/732190.png',
-        'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
-      ],
-      description:
-        'Landing-page Резюме. Дизайн разработан самостоятельно в Figma. Реализован следующий интерфейс: слайдер, меню-бургер, анимации. Реализован адаптивный дизайн под мобильные устройства.',
-      link: 'https://github.com/kyoto430/resume-task',
-      gitLink: 'https://kyoto430.github.io/resume-task/',
-    },
-    {
-      id: '22',
-      image:
         'https://lh3.googleusercontent.com/9sbNgjtORwwGnj6bJy5L9q9TGXMmT6JtXVmwOXy4CQi6Cf0UqV9-IfYnXoATiRcA9XexoJIdGQcz8BCDAXsA1_07LDGAXeyrWgFZGOtZGH-JXqUvof_3QYIp1DtT6qiLHhuun-5oRiDHGyuBfhv5h4IeKGpJlEUyM5mKSZstjcyICnjdO7aIzTQMZo5O5PgNXgF1BHivT77QQhr7JuU8t5GfdTdnsl3ZyEhVOAEFdYIzS-CTl4E9sP2FVp3GUWoGu-PK3FjJIIaqXYRH9xHfQJm0zo-ockry3JpeRj0pY_7lTS2PWSmDLun_-8y80Sp3a5V_BHEQo2RFdQnfly6QeT04XLr-QnJ_51JzGC9W_NpZJ6y05uuBBYrhfP5Qhz22G6Ac-Izl39vSkulHHpBVEMHP0SwYi5AmfcDdR30n7ckRe1YmY1e2DnGPvE1eRnJbOV7r7pBkT_cDg7WyjBOeuYJW4BpdmluTngiQlCTGz-Ce0xQGrPlwosYkZIYmWzutEk3W9dsIviuhwpbT_ztEMM25AP83k8AMRdZmXZXj10GnIunuPjLbwDdVY6s6rCDcned3fWRIEylu1yFQsL4_9TBtUKIYH6Y0lDol_jpI3gdvLlnc1wi0K-PKfI-8lP7HznkRlykcSX1YG1J8zlNZzygz0Iwml9ultQF0LnPSlXjUP3mlpok_HhqAvEwBatD4jSTAIEo5Trwn19Q8QAyw0rRNUxRDDsWWx4Lj8jptpwHva8aGm5o4-Z3xQrjZUJa22yWyY_JN868C1vskBMbDOLiudv60NcCwqRH9jTjxWiNAElHwOg6phEIUsg4ZQVXbP-r1a-t9mCcbf_A4zFkYL3ZwCdyR7Ruh1C22KzrOK8K_bDmmqnZMYQhbiCpkWB9phaSGuz72rJiZCJatw6zEZfGDP3RwHQAeF2WnPX_sOo2Qhtrp_gQACK53OcAtVxd3VJtJWd6xc4H10Gz7DsVM3g=w1123-h778-no?authuser=0',
       title: 'Сайт World of Warcraft',
       technologies: [
@@ -356,7 +346,7 @@ export default function Projects({}: Props) {
         Проекты
       </h3>
       <h3 className="mb-8 md:absolute top-8 md:top-16 uppercase tracking-[3px] text-gray-500 text-sm">
-        Прокрутите/свайпните страницу вправо, чтобы посмотреть больше проектов 
+        Прокрутите/свайпните страницу вправо, чтобы посмотреть больше проектов
       </h3>
       <div className="relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80">
         {projects.map((element) => (

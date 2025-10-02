@@ -26,17 +26,7 @@ export default function Header({}: Props) {
       >
         {/* Social icons */}
         <SocialIcon
-          url="https://instagram.com/ruslan_prakapets"
-          fgColor="gray"
-          bgColor="transparent"
-        />
-        <SocialIcon
           url="https://t.me/Kyoto430"
-          fgColor="gray"
-          bgColor="transparent"
-        />
-        <SocialIcon
-          url="https://vk.com/Kyoto430"
           fgColor="gray"
           bgColor="transparent"
         />

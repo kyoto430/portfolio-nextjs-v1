@@ -8,7 +8,7 @@ type Props = {}
 export default function Hero({}: Props) {
   const [text, count] = useTypewriter({
     words: [
-      'Привет, меня зовут Руслан Прокопец',
+      'Привет, меня зовут Руслан',
       'Guy-who-loves-Tea.jsx',
       '<ButLovesToCodeMore />',
     ],
@@ -25,7 +25,7 @@ export default function Hero({}: Props) {
       />
       <div className="z-20">
         <h2 className="uppercase text-sm text-gray-500 pb-2 tracking-[15px]">
-          Frontend Developer
+          Web Developer
         </h2>
         <h1 className="text-sm md:text-5xl xl:text-6xl font-semibold px-5">
           <span className="mr-1">{text}</span>

@@ -1,8 +1,8 @@
-import { motion } from 'framer-motion'
-import Link from 'next/link'
-import React from 'react'
+import { motion } from 'framer-motion';
+import Link from 'next/link';
+import React from 'react';
 
-type Props = {}
+type Props = {};
 
 export default function About({}: Props) {
   return (
@@ -45,32 +45,22 @@ export default function About({}: Props) {
         </h4>
         <div className="text-base">
           <div className="pb-0 md:pb-5">
-            Привет! Меня зовут Руслан. Мне 29 лет, родился в Беларуси, живу в
-            г.Минске.
+            Мой опыт разработки составляет более 6 лет. За это время я
+            реализовал проекты разного уровня сложности — от лаконичных
+            лендингов до коммерческих веб-сайтов. Специализируюсь на аккуратной
+            и семантической верстке с учётом адаптивности и кроссбраузерности.
+            Имею опыт работы с CMS WordPress.
           </div>
-          <div>
-            Имею высшее техническое образование по специальности
-            Инженерно-психологическое обеспечение информационных технологий.
+          <div className="pb-0 md:pb-5">
+            Обладаю навыками Frontend-разработки: пишу чистый
+            JavaScript код, работаю с современными фреймворками.
           </div>
-          <div>
-            Мой опыт разработки составляет более 5 лет, из них
-            4 года вёрстка веб-сайтов и 1 год Frontend.
+          <div className="pb-0 md:pb-5">
+            В своей работе стремлюсь к pixel-perfect дизайну, читаемому и легко
+            поддерживаемому коду, а также эффективному взаимодействию с
+            UX/UI-дизайнерами и бэкенд-разработчиками для создания удобных и
+            производительных продуктов.
           </div>
-          <div className="pb-0 md:pb-5 underline decoration-[#F7AB0A]/50">
-            В данный момент занимаюсь вёрсткой различных проектов на фрилансе.
-          </div>
-          <div className="underline decoration-[#F7AB0A]/50 font-semibold text-xl">
-            Чем я могу быть полезен?
-          </div>
-          <p>
-            - Я готов трудиться усердно и учиться новым технологиям, чтобы
-            внести свой вклад в проекты. Я также имею опыт работы в команде, умею
-            общаться и сотрудничать со своими коллегами и заказчиками.
-          </p>
-          <p>
-            - Я очень заинтересован и мотивирован в возможности работать
-            веб-разработчиком.
-          </p>
         </div>
         <Link href="https://docs.google.com/document/d/1hW12bu3LQ-g_zJZ9zpHAnwfqdVHcp-VMb8mDtzq8rx0/edit?usp=sharing">
           <button className="heroButtonActive mt-1 md:mt-5">
@@ -79,5 +69,5 @@ export default function About({}: Props) {
         </Link>
       </div>
     </motion.div>
-  )
+  );
 }
