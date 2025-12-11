@@ -15,18 +15,20 @@ export default function WorkExperience({}: Props) {
         'https://cdn-icons-png.flaticon.com/512/174/174854.png',
         'https://cdn-icons-png.flaticon.com/512/732/732190.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
-        'https://cdn-icons-png.flaticon.com/512/5968/5968358.png',
-        'https://gulpjs.su/img/gulp-white-logo.svg',
         'https://cdn-icons-png.flaticon.com/512/174/174881.png',
         'https://cdn-icons-png.flaticon.com/512/5968/5968332.png',
         'https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg',
         'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
       ],
       points: [
-        'Разработка пользовательского интерфейса: Создание адаптивных и кроссбраузерных веб-сайтов с использованием HTML5, CSS3 и JavaScript (ES6+)',
-        'Улучшение UX/UI: внедрение интерактивных функций (форм, модалов, анимации) для улучшения взаимодействия с пользователем и повышения его вовлеченности',
+        'Разработка лендингов, сайтов-визиток, небольших коммерческих сайтов.',
+        'Вёрстка по макетам из Figma/Photoshop с ориентацией на pixel‑perfect реализацию.',
+        'Настройка тем, плагинов и базовый функционал на WordPress (формы, слайдеры, меню, виджеты и т.п.).',
+        'Адаптивная, семантическая вёрстка, кроссбраузерное тестирование.',
+        'Внедрение форм обратной связи, модальных окон, простых анимаций и других интерактивных элементов.',
+        'Общение с заказчиками, уточнение требований, оценка сроков и объема работ.'
       ],
-      date: 'Август 2018 - по настоящее время',
+      date: 'Февраль 2022 - по настоящее время',
     },
     {
       id: '2',
@@ -43,11 +45,14 @@ export default function WorkExperience({}: Props) {
         'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
       ],
       points: [
-        'Разработка пользовательского интерфейса: Создание адаптивных и кроссбраузерных веб-страниц с использованием HTML5, CSS3 и JavaScript (ES6+)',
-        'Оптимизация производительности',
+        'Вёрстка по макетам из Figma/Photoshop с ориентацией на pixel‑perfect реализацию.',
+        'Интеграция вёрстки и дизайн‑макетов с CMS WordPress: создание и настройка шаблонов, доработка тем и плагинов под требования заказчика.',
         'Интеграция с CMS',
-        'Улучшение UX/UI: Внедрение интерактивных функций (форм, модалов, анимации) для улучшения взаимодействия с пользователем и повышения его вовлеченности',
-        'Тестирование и отладка',
+        'Оптимизация производительности сайтов: минификация ресурсов, оптимизация изображений, настройка кеширования, улучшение структуры DOM.',
+        'Внедрение интерактивных элементов: формы, модальные окна, слайдеры, анимации.',
+        'Тестирование и отладка функционала: кроссбраузерность, адаптивность, корректная работа форм и интерактивных элементов.',
+        'Поддержка и обновление контента клиентских сайтов.',
+        'Взаимодействие с дизайнером и backend‑разработчиком, участие в обсуждении улучшений по UX и вёрстке.'
       ],
       date: 'Сентябрь 2023 - Январь 2025',
     },
@@ -58,7 +63,6 @@ export default function WorkExperience({}: Props) {
       logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png',
       icons: [
         'https://cdn-icons-png.flaticon.com/512/1126/1126012.png',
-        'https://lh3.googleusercontent.com/pw/AP1GczNClBs9EaenMJ3jqVRDFjpJWAi_giL3GjPjw_cvHgVW_OiCDioprGtjtAvInONcIUA3QTxUXZU9PZKEKxZhBhL80eAHyYfjQop4-bE7Pi5N7G6YyAP7lPXRcMCPycNfm1vOkJWptRJ7FrY1dOTGwjL5=w1024-h914-s-no-gm?authuser=0',
         'https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png',
       ],
       points: [

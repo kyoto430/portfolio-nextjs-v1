@@ -15,11 +15,11 @@ export default function Home() {
         <title>Ruslan Prakapets | Portfolio</title>
         <meta
           name="description"
-          content="Портфолио frontend-разработчика Прокопца Руслана. Опыт в создании современных веб-приложений с использованием HTML, CSS, JavaScript, React."
+          content="Портфолио веб-разработчика Прокопца Руслана. Опыт в создании современных веб-приложений с использованием HTML, CSS, JavaScript, WordPress"
         ></meta>
         <meta
           name="keywords"
-          content="frontend developer, web development, HTML, CSS, JavaScript, React, портфолио разработчика, frontend портфолио"
+          content="frontend developer, web development, HTML, CSS, JavaScript, WordPress, портфолио разработчика, web портфолио"
         ></meta>
       </Head>
 
@@ -49,17 +49,6 @@ export default function Home() {
         <ContactMe />
       </section>
 
-      <footer className="hidden md:block md:sticky md:bottom-5 md:w-full">
-        <div className="flex items-center justify-center">
-          <Link href="#hero">
-            <img
-              className="h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer"
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
-              alt=""
-            />
-          </Link>
-        </div>
-      </footer>
     </div>
   )
 }

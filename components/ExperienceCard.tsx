@@ -5,7 +5,7 @@ type Props = { exp: any }
 
 export default function ExperienceCard({ exp }: Props) {
   return (
-    <article className="flex flex-col rounded-l items-center space-y-3 flex-shrink-0 w-[300px] md:w-[600px] xl:w-[700px] snap-center bg-[#292929] p-10 md:hover:opacity-100 md:opacity-40 cursor-pointer transition-opacity duration-200 md:overflow-hidden">
+    <article className="flex flex-col rounded-l items-center space-y-3 flex-shrink-0 w-[300px] md:w-[600px] xl:w-[700px] snap-center bg-[#292929] p-5 md:hover:opacity-100 md:opacity-40 cursor-pointer transition-opacity duration-200 md:overflow-hidden">
       <motion.img
         initial={{
           y: -100,
@@ -14,13 +14,13 @@ export default function ExperienceCard({ exp }: Props) {
         transition={{ duration: 1.2 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
-        className="w-20 h-20 rounded-full md:w-[180px] md:h-[180px] object-cover object-center"
+        className="w-20 h-20 rounded-full md:w-[80px] md:h-[80px] object-cover object-center"
         src={exp.logo}
         alt=""
       />
       <div className="px-0 md:px-10">
-        <h4 className="text-xl md:text-4xl font-light">{exp.title}</h4>
-        <p className="font-bold text-sm md:text-2xl mt-1 pb-5">{exp.place}</p>
+        <h4 className="text-xl md:text-3xl font-light">{exp.title}</h4>
+        <p className="font-bold text-sm md:text-xl mt-1 pb-5">{exp.place}</p>
         <div className="flex flex-wrap space-x-2 my-2 items-center justify-center">
           {exp.icons.map((element: any, index: any) => (
             <img
@@ -32,7 +32,7 @@ export default function ExperienceCard({ exp }: Props) {
           ))}
         </div>
         <p className="uppercase py-5 text-gray-300">{exp.date}</p>
-        <ul className="list-disc space-y-4 ml-5 text-lg">
+        <ul className="list-disc space-y-2 ml-5 text-sm">
           {exp.points.map((element: any, index: any) => (
             <li key={index}>{element}</li>
           ))}

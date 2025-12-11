@@ -68,7 +68,7 @@ export default function Skills({}: Props) {
     },
     {
       id: '13',
-      logo: 'https://lh3.googleusercontent.com/pw/AP1GczNClBs9EaenMJ3jqVRDFjpJWAi_giL3GjPjw_cvHgVW_OiCDioprGtjtAvInONcIUA3QTxUXZU9PZKEKxZhBhL80eAHyYfjQop4-bE7Pi5N7G6YyAP7lPXRcMCPycNfm1vOkJWptRJ7FrY1dOTGwjL5=w1024-h914-s-no-gm?authuser=0',
+      logo: 'https://sohanemon.gallerycdn.vsassets.io/extensions/sohanemon/react-next-js-code-snippets/0.2.18/1709966233725/Microsoft.VisualStudio.Services.Icons.Default',
       progress: '50%',
     },
     {
